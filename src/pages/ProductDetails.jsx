@@ -7,7 +7,7 @@ function ProductDetails() {
         getSingleProduct()
      },[])
 
-useEffect(()=>{},[productInfo])
+
 
 
    async function getSingleProduct (){
