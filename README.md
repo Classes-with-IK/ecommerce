@@ -1,4 +1,4 @@
-#Simple Site
+# Simple Site
 
 **Installation**
 
@@ -8,6 +8,7 @@ npm install
 ```
 ---
 Rules:
+
 -Dont smoke while coding
 -nnnnnnn
     -nnnn
